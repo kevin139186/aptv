@@ -78,7 +78,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226929/1.m3u8?fmt=ts2hl
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视",福建东南卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视",广东卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8?fmt=ts2hls
+http://goo.bkpcp.top/mg/gdws
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视",广西卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视",海南卫视
@@ -132,11 +132,9 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226983/1.m3u8?fmt=ts2hl
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视",江西卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226998/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227258/1.m3u8?fmt=ts2hls
+http://goo.bkpcp.top/mg/lnws
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视",青海卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226971/1.m3u8?fmt=ts2hls
+http://goo.bkpcp.top/mg/qhws
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视",山东卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视",上海东方卫视
@@ -157,3 +155,28 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视",重庆卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226982/1.m3u8?fmt=ts2hls
+#备用资源
+辽宁卫视,
+广东卫视,
+浙江卫视,http://goo.bkpcp.top/mg/zjws
+河南卫视,http://goo.bkpcp.top/mg/hnws
+吉林卫视,http://goo.bkpcp.top/mg/jlws
+陕西卫视,http://goo.bkpcp.top/mg/sxws
+海峡卫视,http://goo.bkpcp.top/mg/hxws
+宁夏卫视,http://goo.bkpcp.top/mg/nxws
+云南卫视,http://goo.bkpcp.top/mg/ynws
+东方卫视,http://goo.bkpcp.top/mg/dfws
+重庆卫视,http://goo.bkpcp.top/mg/cqws
+内蒙古卫视,http://goo.bkpcp.top/mg/nmws
+甘肃卫视,http://goo.bkpcp.top/mg/gsws
+青海卫视,
+山东卫视,http://goo.bkpcp.top/mg/sdws
+湖北卫视,http://goo.bkpcp.top/mg/hubws
+江西卫视,http://goo.bkpcp.top/mg/jxws
+江苏卫视,http://goo.bkpcp.top/mg/jsws
+大湾区卫视,http://goo.bkpcp.top/mg/dwqws
+广西卫视,http://goo.bkpcp.top/mg/gxws
+贵州卫视,http://goo.bkpcp.top/mg/gzws
+新疆卫视,http://goo.bkpcp.top/mg/xjws
+西藏卫视,http://goo.bkpcp.top/mg/xzws
+海南卫视,http://goo.bkpcp.top/mg/hinws
